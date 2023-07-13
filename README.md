@@ -11,9 +11,9 @@ http://jaygrossman.com/post/2023/01/28/Snowflake-Set-up-with-Terraform.aspx
 - user accounts
 - permission grants
 
-## Chan Zuckerberg terraform provider
-This is a terraform provider plugin for managing Snowflake accounts:
-https://github.com/chanzuckerberg/terraform-provider-snowflake
+## Snowflake terraform provider
+This is a terraform provider plugin (formerly referred to as chanzuckerberg/snowflake provide) for managing Snowflake accounts:
+https://github.com/Snowflake-Labs/terraform-provider-snowflake
 
 Documentation available here:
 https://registry.terraform.io/providers/chanzuckerberg/snowflake/latest/docs
