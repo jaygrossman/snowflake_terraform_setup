@@ -1,7 +1,7 @@
 # snowflake_terraform_setup
 
 This directory contains terraform configuration used to configure a snowflake instance with a generic set up disucssed at:
-http://jaygrossman.com/post/2023/01/28/Snowflake-Set-up-with-Terraform.aspx
+[https://jaygrossman.com/snowflake-setup-with-terraform/](https://jaygrossman.com/snowflake-setup-with-terraform/)
 
 ## What are we using terraform to configure within snowflake??
 - databases
